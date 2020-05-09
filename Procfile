@@ -1,0 +1,1 @@
+web: gunicorn Techtinium_assignment.wsgi
